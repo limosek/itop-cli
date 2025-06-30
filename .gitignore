@@ -1,4 +1,5 @@
 .idea/
 itop-cli.cfg
 *~
+.venv/
 
